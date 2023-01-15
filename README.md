@@ -1,4 +1,4 @@
-TEMPLATE FOR MARKETPLACE WEBSITES USING STRIPE
+TEMPLATE FOR MARKETPLACE WEBSITES USING STRIPE.
 
 Basic Template of Marketplace Websites created using Stripe payment gateway, using Stripe onboarding Link.
 One Can create various Marketplace websites following this template
