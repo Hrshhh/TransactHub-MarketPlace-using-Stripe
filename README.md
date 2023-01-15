@@ -5,7 +5,9 @@ One Can create various Marketplace websites following this template
 
 Built front-end using React and Redux and styled it with Bootstrap, ANT Design.
 Created a REST API using EXPRESSJS and MONGODB for the back-end, to handle the routes, database interactions and STRIPE INTEGRATION.
-Implemented using Stripe onboarding link for vendors to connect their Stripe account to the marketplace.
+
+Implemented using Stripe Onboarding link (in STANDARD type of account,as EXPRESS account is NOT SUPPORTED in INDIA) for vendors to connect their Stripe account to the marketplace.
+
 Implementing security measures such as encrypting user passwords using Bcrypt and generating JSON WEB TOKENS (JWT) for authentication and authorization.
 Setting up server-side validation and handling errors, showing problems on UI with the help of TOASTIFY package.
 Implemented Login and registration page with stripe integration.
