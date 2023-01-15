@@ -8,7 +8,7 @@ Created a REST API using EXPRESSJS and MONGODB for the back-end, to handle the r
 
 Implemented using Stripe Onboarding link (in STANDARD type of account,as EXPRESS account is NOT SUPPORTED in INDIA) for vendors to connect their Stripe account to the marketplace.
 
-Implementing security measures such as encrypting user passwords using Bcrypt and generating JSON WEB TOKENS (JWT) for authentication and authorization.
+Implemented security measures such as encrypting user passwords using Bcrypt and generating JSON WEB TOKENS (JWT) for authentication and authorization.
 Setting up server-side validation and handling errors, showing problems on UI with the help of TOASTIFY package.
 Implemented Login and registration page with stripe integration.
 
