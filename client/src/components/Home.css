@@ -1,0 +1,11 @@
+.card{
+    width: 50%;
+}
+
+h2{
+    color: white;
+}
+
+.bg-purple {
+    background-color: purple !important;
+}
